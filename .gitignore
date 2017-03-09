@@ -1,0 +1,16 @@
+#debugs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+#modules
+bower_components/
+node_modules/
+#release
+dist/
+#src
+src/
+#configs
+.babelrc
+.eslintrc
+postcss.config.js
+webpack.config.js
