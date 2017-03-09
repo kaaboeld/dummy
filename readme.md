@@ -11,5 +11,5 @@ Dependencies:
 DevDependencies:
 * webpack - compiling & devserver 
 
-## After clone get examples files from ./examplse to root and run: ```npm run serve``` OR for build project ```npm run build```
+## After clone AND ```npm install``` get examples files from ./examplse to root and run: ```npm run serve``` OR for build project ```npm run build```
 
